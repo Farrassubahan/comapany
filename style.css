@@ -1,0 +1,69 @@
+
+.banner {
+ 
+    background: url("donate.png")
+      no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 30%;
+    color: black;
+  
+  
+} 
+  
+  .lingkaran {
+    display: inline-block;
+    border-radius: 60%;
+    width: 180px;
+    margin: auto;
+    height: 180px;
+    color: #fff;
+    background-color: rgb(43, 117, 229);
+  }
+  
+  .lingkaran i {
+    position: relative;
+    top: 30px;
+  }
+  
+  .crop-img {
+    object-fit: cover;
+  }
+  
+  .tim img {
+    width: 250px;
+    border: 2px solid;
+  }
+  
+  a.social {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    color: black;
+    
+    line-height: 40px;
+  }
+  
+  .client img {
+    height: auto;
+    max-height: 50px;
+  }
+  .kami{
+    background: url("OIP.jpeg") no-repeat center center ;
+    background-size: cover;
+    padding-top: 10%;
+    padding-bottom: 10%;
+  }
+  
+  .layanan{
+    background: url("foto1.jpg") no-repeat center center ;
+    background-size: cover;
+    padding-top: 10%;
+    padding-bottom: 10%;
+  }
+  .kontak {
+    background: url("kontak.webp") no-repeat
+      center center;
+    
+  }
+  
